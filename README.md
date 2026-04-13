@@ -1,11 +1,7 @@
 ## Hi there, I'm Maks 👋
 
----
-
 **Я Python Backend Developer**  
 Открыт к предложениям
-
----
 
 ## 🚀 О себе
 
@@ -22,12 +18,10 @@
 — официальную документацию Django и FastAPI
 — статьи на Habr и Medium по backend-разработке
 
----
 
 ## 🛠 Технологии и инструменты
 
-- **Язык программирования:**  
-  Python  
+- **Язык программирования:** Python  
 
 - **Фреймворки и библиотеки:** Django, FastAPI, Flask, Django REST Framework (DRF), SQLAlchemy  
 
@@ -47,26 +41,17 @@
 
 - **Подходы и архитектура:** REST API, асинхронные приложения, проектирование backend-архитектуры 
 
----
-
 ## 📂 Проекты
 
-- [**Booking Service**](https://github.com/makszakharov/booking-service) — REST API для бронирования столов в кафе  
-  FastAPI, PostgreSQL, SQLAlchemy (async), Celery, Redis, RabbitMQ, Docker  
+- [**Booking Service**](https://github.com/makszakharov/booking-service) — REST API для бронирования столов в кафе (FastAPI, PostgreSQL, SQLAlchemy async, Celery, Redis, RabbitMQ, Docker)
 
-- [**Foodgram**](https://github.com/makszakharov/foodgram) — сервис публикации рецептов  
-  Django, DRF, PostgreSQL, Docker, Nginx, Gunicorn, Djoser  
+- [**Foodgram**](https://github.com/makszakharov/foodgram) — сервис публикации рецептов (Django, DRF, PostgreSQL, Docker, Nginx, Gunicorn, Djoser)
 
-- [**Kittygram**](https://github.com/makszakharov/kittygram_final) — социальная сеть для публикации питомцев  
-  Django, DRF, PostgreSQL, Docker, Nginx, Gunicorn, Djoser  
+- [**Kittygram**](https://github.com/makszakharov/kittygram_final) — социальная сеть для публикации питомцев (Django, DRF, PostgreSQL, Docker, Nginx, Gunicorn, Djoser)
 
-- [**YaMDb**](https://github.com/makszakharov/api-yamdb) — API для отзывов на произведения  
-  Django, DRF, PostgreSQL, JWT, Docker  
+- [**YaMDb**](https://github.com/makszakharov/api-yamdb) — API для отзывов на произведения (Django, DRF, PostgreSQL, JWT, Docker)
 
-- [**YaCut**](https://github.com/makszakharov/async-yacut) — сервис сокращения ссылок  
-  Flask (async), SQLAlchemy, aiohttp, Jinja2 
-
----
+- [**YaCut**](https://github.com/makszakharov/async-yacut) — сервис сокращения ссылок (Flask async, SQLAlchemy, aiohttp, Jinja2)
 
 ## 📫 Контакты
 
