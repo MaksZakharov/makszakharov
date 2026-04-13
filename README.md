@@ -1,7 +1,4 @@
-## Hi there, I'm Maks 👋
-
-**Я Python Backend Developer**  
-Открыт к предложениям
+## Привет👋, я Макс, Python Backend Developer. Открыт к предложениям.
 
 ## 🚀 О себе
 
