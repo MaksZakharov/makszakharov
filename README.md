@@ -29,56 +29,42 @@
 - **Язык программирования:**  
   Python  
 
-- **Фреймворки и библиотеки:**  
-  Django, FastAPI, Flask, Django REST Framework (DRF), SQLAlchemy  
+- **Фреймворки и библиотеки:** Django, FastAPI, Flask, Django REST Framework (DRF), SQLAlchemy  
 
-- **Базы данных:**  
-  PostgreSQL, SQLite  
+- **Базы данных:** PostgreSQL, SQLite  
 
-- **Асинхронность и очереди (базовый уровень):**  
-  Celery, Redis, RabbitMQ, aiohttp  
+- **Асинхронность и очереди (базовый уровень):** Celery, Redis, RabbitMQ, aiohttp  
 
-- **DevOps и деплой:**  
-  Docker, Docker Compose, Nginx, Gunicorn  
+- **DevOps и деплой:** Docker, Docker Compose, Nginx, Gunicorn  
 
-- **CI/CD:**  
-  GitHub Actions  
+- **CI/CD:** GitHub Actions  
 
-- **Аутентификация и безопасность:**  
-  JWT, Djoser  
+- **Аутентификация и безопасность:** JWT, Djoser  
 
-- **Фронтенд (базовый уровень):**  
-  React, Jinja2
+- **Фронтенд (базовый уровень):** React, Jinja2
 
-- **Инструменты разработки:**  
-  Git (feature-ветки, pull request, code review)  
+- **Инструменты разработки:** Git (feature-ветки, pull request, code review)  
 
-- **Подходы и архитектура:**  
-  REST API, асинхронные приложения, проектирование backend-архитектуры 
+- **Подходы и архитектура:** REST API, асинхронные приложения, проектирование backend-архитектуры 
 
 ---
 
-## 📂 Projects
+## 📂 Проекты
 
-- **Booking Service** — REST API для бронирования столов в кафе  
+- [**Booking Service**](https://github.com/makszakharov/booking-service) — REST API для бронирования столов в кафе  
   FastAPI, PostgreSQL, SQLAlchemy (async), Celery, Redis, RabbitMQ, Docker  
-  → https://github.com/makszakharov/booking-service  
 
-- **Foodgram** — сервис публикации рецептов  
+- [**Foodgram**](https://github.com/makszakharov/foodgram) — сервис публикации рецептов  
   Django, DRF, PostgreSQL, Docker, Nginx, Gunicorn, Djoser  
-  → https://github.com/makszakharov/foodgram  
 
-- **Kittygram** — социальная сеть для публикации питомцев  
+- [**Kittygram**](https://github.com/makszakharov/kittygram_final) — социальная сеть для публикации питомцев  
   Django, DRF, PostgreSQL, Docker, Nginx, Gunicorn, Djoser  
-  → https://github.com/makszakharov/kittygram_final  
 
-- **YaMDb** — API для отзывов на произведения  
+- [**YaMDb**](https://github.com/makszakharov/api-yamdb) — API для отзывов на произведения  
   Django, DRF, PostgreSQL, JWT, Docker  
-  → https://github.com/makszakharov/api-yamdb  
 
-- **YaCut** — сервис сокращения ссылок  
-  Flask (async), SQLAlchemy, aiohttp, Jinja2  
-  → https://github.com/makszakharov/async-yacut 
+- [**YaCut**](https://github.com/makszakharov/async-yacut) — сервис сокращения ссылок  
+  Flask (async), SQLAlchemy, aiohttp, Jinja2 
 
 ---
 
