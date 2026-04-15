@@ -42,27 +42,23 @@
 
 - [**Booking Service**](https://github.com/makszakharov/booking-service) — REST API для бронирования столов в кафе (FastAPI, PostgreSQL, SQLAlchemy async, Celery, Redis, RabbitMQ, Docker)
 
-- [**Foodgram**](https://github.com/makszakharov/foodgram) — сервис публикации рецептов (Django, DRF, PostgreSQL, Docker, Nginx, Gunicorn, Djoser)
+- [**Foodgram**](https://github.com/makszakharov/foodgram) — сервис рецептов (Django, DRF, PostgreSQL, Docker, Nginx, Gunicorn, Djoser)
 
-- [**Kittygram**](https://github.com/makszakharov/kittygram_final) — социальная сеть для публикации питомцев (Django, DRF, PostgreSQL, Docker, Nginx, Gunicorn, Djoser)
+- [**Kittygram**](https://github.com/makszakharov/kittygram_final) — социальная сеть для публикации фото питомцев (Django, DRF, PostgreSQL, Docker, Nginx, Gunicorn, Djoser)
 
 - [**YaMDb**](https://github.com/makszakharov/api-yamdb) — API для отзывов на произведения (Django, DRF, PostgreSQL, JWT, Docker)
 
 - [**YaCut**](https://github.com/makszakharov/async-yacut) — сервис сокращения ссылок (Flask async, SQLAlchemy, aiohttp, Jinja2)
 
-- [**Бот-ассистент**](https://github.com/MaksZakharov/homework-bot) — Телеграм-бот, который регулярно обращается к API Практикум.Домашка и сообщает пользователю статус проверки домашнего задания.
-Проект демонстрирует работу с API, обработку ошибок, логирование и тестирование с помощью unittest.
+- [**Homework Bot**](https://github.com/MaksZakharov/homework-bot) — telegram-бот для отслеживания статуса проверки домашних заданий через API (Python, python-telegram-bot, requests, python-dotenv, logging, unittest)
 
-- [**Blogicum**](https://github.com/MaksZakharov/django-sprint4) — Платформа для блогов, где пользователи могут регистрироваться, публиковать посты с изображениями и датами публикации, оставлять комментарии и управлять своим профилем.
-В проекте реализованы аутентификация и авторизация, пагинация, кастомные страницы ошибок и файловый почтовый бэкенд.
+- [**Blogicum**](https://github.com/MaksZakharov/django-sprint4) — блог-платформа с публикациями, комментариями и системой управления контентом (Python, Django, SQLite, Pytest, HTML, CSS)
 
-- [**REST API для социальной сети Yatube**](https://github.com/MaksZakharov/api-final-yatube) — Позволяет пользователям публиковать записи, комментировать, подписываться друг на друга и объединяться в группы.
-Реализована аутентификация через JWT-токены.
+- [**Yatube API**](https://github.com/MaksZakharov/api-final-yatube) — REST API социальной сети с публикациями, комментариями и подписками (Python, Django, Django REST Framework, JWT, SQLite)
  
-- [**Асинхронный парсер PEP**](https://github.com/MaksZakharov/async_pep_parser) — высокопроизводительная версия парсера, реализованная на aiohttp. Позволяет обрабатывать сотни страниц PEP параллельно,
-значительно ускоряя процесс сбора данных.
+- [**Scrapy PEP Parser**](https://github.com/MaksZakharov/scrapy_parser_pep) — парсер документации PEP с агрегацией данных и формированием отчетов (Python, Scrapy)
 
-- [**Асинхронный REST API благотворительного фонда QRKot, разработанный на FastAPI.**](https://github.com/MaksZakharov/cat-charity-2) — Проект реализует управление благотворительными инициативами и пожертвованиями с автоматическим распределением средств.
+- [**QRKot**](https://github.com/MaksZakharov/cat-charity-2) — API благотворительного фонда с распределением пожертвований (Python, FastAPI, SQLAlchemy async, Alembic, SQLite, fastapi-users, JWT)
 
 ## 📫 Контакты
 
